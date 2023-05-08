@@ -20,6 +20,7 @@ samples, guidance on mobile development, and a full API reference.
   <table>
     <tr>
         <td><img width="250px" align="left" src="screenshots/main.png" /></td>
+        <td><img width="250px" align="left" src="screenshots/loading.png"/></td>
     </tr>  
     </table>
 </center>
