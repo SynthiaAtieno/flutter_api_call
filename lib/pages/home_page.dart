@@ -25,6 +25,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Api Call App"),
+        centerTitle: true,
       ),
       body: provider.isLoading
           ? getLoadingUi()
